@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Bife de chorizo",
+    "descripcion": "Nuestro corte a la parrilla, acompañado de papas rústicas.",
+    "precio": 18500,
+    "foto": "BifedeChorizo.jpg",
+    "activa": true
+  },
+  {
+    "nombre": "Pizza Especial",
+    "descripcion": "Una de las favoritas de la casa.",
+    "precio": 14500,
+    "foto": "PizzaEspecial.jpg",
+    "activa": true
+  }
+]

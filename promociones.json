@@ -1,0 +1,10 @@
+[
+  {
+    "titulo": "Promo Pizza + Gaseosa",
+    "nombre": "Promo Pizza + Gaseosa",
+    "descripcion": "Pizza Muzzarella más gaseosa de 500 ml.",
+    "precio": 14500,
+    "foto": "PromoPizzaGaseosa.jpg",
+    "activa": true
+  }
+]

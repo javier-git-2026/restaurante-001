@@ -1,0 +1,10 @@
+[
+  {
+    "titulo": "Menú del día",
+    "nombre": "Menú del día",
+    "descripcion": "Plato principal + guarnición + bebida",
+    "precio": 12500,
+    "foto": "menu_del_dia.jpg",
+    "activa": true
+  }
+]
